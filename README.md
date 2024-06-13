@@ -10,7 +10,7 @@ A simple BMI (Body Mass Index) calculator built with Vite and React.
 ## Features
 
 - Calculate BMI based on user input (height and weight).
-- [Add any additional features your calculator may have.]
+- Hot reload
 
 ## Getting Started
 
